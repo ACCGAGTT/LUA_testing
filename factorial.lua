@@ -5,4 +5,4 @@ function fact(n)
     end 
 end   
                                                                                                      
-print(fact(10))  
+print(fact(5))  
